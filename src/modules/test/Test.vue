@@ -25,7 +25,7 @@
     },
     data(){
       return {
-        message: 'Hello world'
+        message: 'Mic Test 1..2'
       }
     },
     props: {
